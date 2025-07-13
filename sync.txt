@@ -1,2 +1,1 @@
-if that text contain the this ""
-it will lock all the apps
+LOCKOUT-BECARE-7882
